@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=aayushhh.com&style=for-the-badge&url=https%3A%2F%2Faayushhh.com)](https://aayushhh.github.io/website/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/aayushhh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/aayusshhhhhh)
-[!instagram]: (https://img.shields.io/instagram/follow/aayushhh?color=1DA1F2&logo=instagram&style=for-the-badge)](https://instagram.com/aayushhhhhh/)
+[![Instagram Follow](https://img.shields.io/instagram/follow/aayushhh?color=1DA1F2&logo=instagram&style=for-the-badge)](https://instagram.com/aayushhhhhh/)
 
 ## I'm a Student, Engineer, Developer, and Artist!
 
