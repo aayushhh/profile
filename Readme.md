@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=aayushhh.com&style=for-the-badge&url=https%3A%2F%2Faayushhh.com)](https://aayushhh.github.io/website/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/aayushhh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/aayusshhhhhh)
+[!instagram]: (https://img.shields.io/instagram/follow/aayushhh?color=1DA1F2&logo=instagram&style=for-the-badge)](https://instagram.com/aayushhhhhh/)
 
 ## I'm a Student, Engineer, Developer, and Artist!
 
@@ -37,7 +38,7 @@
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
 [<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
 ]
 
 <br />
