@@ -1,6 +1,6 @@
 ### Hi there, I'm Aayush - aka [HumorousCoder][website] 👋
 
-[![Website](https://img.shields.io/website?label=aayushhh.com&style=for-the-badge&url=https%3A%2F%2Faayushhh.com)](https://aayushhh.github.io/aayushrajput_portfolio/)
+[![Website](https://img.shields.io/website?label=aayushhh.com&style=for-the-badge&url=https%3A%2F%2Faayushhh.com)](https://aayushhh.github.io/website/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/aayushhh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/aayusshhhhhh)
 
 ## I'm a Student, Engineer, Developer, and Artist!
@@ -89,7 +89,7 @@
 
 </details>
 
-[website]: https://aayushhh.github.io/aayushrajput_portfolio/
+[website]: https://aayushhh.github.io/aayushrajput/website/
 [twitter]: https://twitter.com/aayusshhhhhh
 [youtube]: https://www.youtube.com/channel/UCy-YJwQ2k3ZrAkKzeuAemhA/videos?view_as=subscriber
 [instagram]: https://instagram.com/aayushhhhhh/
